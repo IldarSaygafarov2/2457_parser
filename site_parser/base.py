@@ -2,6 +2,7 @@ import requests
 
 from bs4 import BeautifulSoup
 
+print('base')
 
 class BaseParser:
     URL = 'https://upl.uz'
